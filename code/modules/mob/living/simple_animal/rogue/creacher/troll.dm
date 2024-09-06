@@ -38,7 +38,6 @@
 	defprob = 20
 	defdrain = 15
 	del_on_deaggro = 99 SECONDS
-	retreat_health = 0
 	food_max = 250
 	food = 0
 	attack_sound = list('sound/combat/wooshes/blunt/wooshhuge (1).ogg','sound/combat/wooshes/blunt/wooshhuge (2).ogg','sound/combat/wooshes/blunt/wooshhuge (3).ogg')
@@ -46,7 +45,6 @@
 	aggressive = 1
 //	stat_attack = UNCONSCIOUS
 	remains_type = /obj/effect/decal/remains/xeno/troll // Placeholder until Troll remains are sprited.
-	body_eater = TRUE
 	var/critvuln = TRUE
 
 /mob/living/simple_animal/hostile/retaliate/rogue/troll/Initialize()
