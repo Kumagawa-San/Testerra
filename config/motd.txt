@@ -1,0 +1,3 @@
+<!-- Most valid html will work in here, excluding images. -->
+Subterra Discord Server: <a href="https://discord.gg/TpMUr67XbB">discord.gg/Subterra</a>
+<center>* Unstable Codebase - Expect Restarts *</center>
